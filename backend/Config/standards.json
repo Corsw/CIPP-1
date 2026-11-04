@@ -7966,6 +7966,12 @@
         "name": "standards.ColleagueImpersonationAlert.disclaimerHtml",
         "label": "Disclaimer HTML – Paste the full HTML for the warning banner",
         "required": true
+      },      
+      {
+        "type": "textField",
+        "name": "standards.ColleagueImpersonationAlert.displayNameSeparator",
+        "label": "Display name separator – Optional, for example |",
+        "required": false
       },
       {
         "type": "autoComplete",
